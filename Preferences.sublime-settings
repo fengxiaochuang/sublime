@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Courier New",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "4"
+}

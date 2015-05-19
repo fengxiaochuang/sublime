@@ -1,0 +1,6 @@
+{
+	//if installed in a default location maybe this works.
+	"default_browser": "chrome", //one of this list: firefox, aurora, chrome, canary, chromium, opera, safari
+
+	"portable_browser": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe", // for example:  C:/Program Files (x86)/Nightly/firefox.exe
+}

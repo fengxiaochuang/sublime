@@ -1,0 +1,39 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"AlignTab",
+		"All Autocomplete",
+		"Better Completion",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Function Name Display",
+		"IMESupport",
+		"Jade",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"Tag",
+		"Theme - Nil",
+		"Thinkphp",
+		"TortoiseSVN",
+		"TrailingSpaces",
+		"Trimmer",
+		"ZZZ"
+	]
+}
