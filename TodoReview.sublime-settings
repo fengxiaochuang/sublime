@@ -1,0 +1,17 @@
+{
+	"exclude_folders": [
+		"*.git*",
+		"css",
+		"js",
+		"images",
+		"temp"
+	],
+	"exclude_files": [
+		"*.sublime-workspace",
+		"*.sublime-project",
+		"*.html",
+		"*.css",
+		"*.js",
+		"*.svn-base"
+	],
+}

@@ -18,21 +18,14 @@
 	// ,{ "keys": ["alt+l"], "command": "svn_log" }
 	// ,{ "keys": ["alt+d"], "command": "svn_diff" }
 
-	, {
-		"keys": ["alt+m"],
-		"command": "markdown_preview",
-		"args": {
-			"target": "browser"
-		}
-	},
-	{
-		"keys": ["f12"],
-		"command": "side_bar_open_in_browser",
-		"args": {
-			"paths": [],
-			"type": "testing",
-			"browser": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
-		}
-	}
+	// {
+	// 	"keys": ["f12"],
+	// 	"command": "side_bar_open_in_browser",
+	// 	"args": {
+	// 		"paths": [],
+	// 		"type": "testing",
+	// 		"browser": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+	// 	}
+	// }
 
 ]
